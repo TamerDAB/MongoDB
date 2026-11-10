@@ -22,8 +22,8 @@ A desktop application for hospitals and clinics to manage patients, medicines, a
 - `Hospital.sln` – Visual Studio solution file
 
 ## 👥 Authors
+- Tamer Dabdub
 - Aneel Aburish
-- Tamir Dabdub
 - Muhammed Anteer
 - Bahaa
 
